@@ -30,3 +30,11 @@ If you want to keep your IP Grabber up and running 24/7, follow this tutorial bu
 If you have any troubles with making your IP Grabber or are running into any issues with hosting, please contact me at my Discord:
 **https://discord.gg/suST7VSDRZ**
 
+# 🔗 Links
+
+[YouTube](https://www.youtube.com/channel/UCrAV0ayEHJS4GKfE9Q2yQNQ) - `Thinkright20`
+
+[Discord](https://discord.gg/suST7VSDRZ) - `Thinkright's Hangout`
+
+[Scratch](https://scratch.mit.edu/users/Thinkright20man/) - `Thinkright20man`
+
