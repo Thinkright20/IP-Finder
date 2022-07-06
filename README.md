@@ -8,12 +8,14 @@ Read through this guide to fully understand how to use it. Also, if you are here
 
 # 🔢 Instructions
 
-1. Copy the link of this GitHub Respository
-2. Leave a Star (optional but would be nice)
-3. Go into Replit and click the '+' button
-4. Click "Import From Github", and paste the URL there & create
-5. Wait for everything to load properly
-6. Click the "Run" button
+1. Go to index.js in this GitHub Repo
+2. Copy the entire code in index.js
+3. Leave a Star (optional but would be nice)
+4. Go into Replit and click the '+' button
+5. Select "node.js" as the language and name it what you want
+7. Click "Create" and Wait for everything to load properly
+8. Paste the code in the index.js in the repl
+9. Click the "Run" button at the top in the center
 
 ✅ **That's it!** You should have your IP Grabber up and running!
 
