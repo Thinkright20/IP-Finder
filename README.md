@@ -23,13 +23,13 @@ Read through this guide to fully understand how to use it. Also, if you are here
 
 Before note: This part is optional for users only who are interested in having hosting
 
-If you want to keep your IP Grabber up and running 24/7, follow this tutorial but SKIP TO 0:29
+If you want to keep your IP Grabber up and running 24/7, follow this tutorial but SKIP TO 0:27:
 
-**https://youtu.be/q1Mq8jH2iMY?t=29**
+**[How to Host a Repl 24/7 for FREE!](https://www.youtube.com/watch?v=q1Mq8jH2iMY&t=27s)**
 
 # ❓ Help
 
-If you have any troubles with making your IP Grabber or are running into any issues with hosting, please contact me at my Discord:
+If you have any troubles with making your IP Grabber or are running into any issues with hosting, you can leave a comment on the YouTube Video or contact me at my Discord:
 **https://discord.gg/suST7VSDRZ**
 
 # 🔗 Links
