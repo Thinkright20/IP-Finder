@@ -15,7 +15,7 @@ Read through this guide to fully understand how to use it. Also, if you are here
 5. Wait for everything to load properly
 6. Click the "Run" button
 
-✅ That's it! You should have your IP Grabber up and running!
+✅ **That's it!** You should have your IP Grabber up and running!
 
 # ⏰ Hosting
 
@@ -23,5 +23,10 @@ Before note: This part is optional for users only who are interested in having h
 
 If you want to keep your IP Grabber up and running 24/7, follow this tutorial but SKIP TO 0:29
 
-https://youtu.be/q1Mq8jH2iMY?t=29
+**https://youtu.be/q1Mq8jH2iMY?t=29**
+
+# ❓ Help
+
+If you have any troubles with making your IP Grabber or are running into any issues with hosting, please contact me at my Discord:
+**https://discord.gg/suST7VSDRZ**
 
