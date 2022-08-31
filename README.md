@@ -1,4 +1,4 @@
-# 🔨 Build An IP Grabber
+# 🔨 Build An IP Finder
 This Github respository holds code that when entered in a project and runned, will create a detailed and nicely styled IP Grabber.
 Read through this guide to fully understand how to use it. Also, if you are here from YouTube, please consider subscribing & liking!
 
@@ -17,19 +17,19 @@ Read through this guide to fully understand how to use it. Also, if you are here
 8. Paste the code in the index.js in the repl
 9. Click the "Run" button at the top in the center
 
-✅ **That's it!** You should have your IP Grabber up and running!
+✅ **That's it!** You should have your IP Finder up and running!
 
 # ⏰ Hosting
 
 Before note: This part is optional for users only who are interested in having hosting
 
-If you want to keep your IP Grabber up and running 24/7, follow this tutorial but SKIP TO 0:27:
+If you want to keep your IP Finder up and running 24/7, follow this tutorial but SKIP TO 0:27:
 
 **[How to Host a Repl 24/7 for FREE!](https://www.youtube.com/watch?v=q1Mq8jH2iMY&t=27s)**
 
 # ❓ Help
 
-If you have any troubles with making your IP Grabber or are running into any issues with hosting, you can leave a comment on the YouTube Video or contact me at my Discord:
+If you have any troubles with making your IP Finder or are running into any issues with hosting, you can leave a comment on the YouTube Video or contact me at my Discord:
 **https://discord.gg/suST7VSDRZ**
 
 # 🔗 Links
