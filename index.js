@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>IP Grabber</title>
+<title>Your IP Info</title>
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 <link rel="Icon" href="https://whatemoji.org/wp-content/uploads/2020/07/Link-Emoji.png" />
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
