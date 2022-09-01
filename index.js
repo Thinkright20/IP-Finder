@@ -27,11 +27,11 @@ app.get('/', function(req, res) {
 <body>
 <center>
 <br><br><br>
-<h2 class="title">🎉 <u>Congrats, I just grabbed your IP!</u></h2>
+<h2 class="title"><u>Your IP Information:</u></h2>
 <br><br>
 
 <div class="container">
-<h2 class="containertitle">📑 Your IP Info</h2>
+<h2 class="containertitle">📑 IP Info</h2>
 <br><br>
 <h4>🔗 IP: ${req.ipInfo.ip || "IP could not be displayed"}</h4>
 <br>
@@ -86,5 +86,5 @@ font-size: 35px;
 
 app.listen(app.get('PORT'), function() {
   console.log(`Application started with port ${PORT}`)
-  console.log(`Any Info that appears here means someone (can be you too) clicked onto your IP Grabber.`)
+  console.log(`Any Info that appears here means someone (can be you too) clicked onto your web app.`)
 });
