@@ -1,5 +1,5 @@
 # 🔨 Build An IP Finder
-This Github respository holds code that when entered in a project and runned, will create a detailed and nicely styled IP Grabber.
+This Github respository has code that when entered in a project and runned, will create a detailed and nicely styled IP Grabber.
 Read through this guide to fully understand how to use it. Also, if you are here from YouTube, please consider subscribing & liking!
 
 # 📑 Required Things:
