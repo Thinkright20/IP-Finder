@@ -13,8 +13,8 @@ Read through this guide to fully understand how to use it. Also, if you are here
 3. Leave a Star (optional but would be nice)
 4. Go into Replit and click the '+' button
 5. Select "node.js" as the language and name it what you want
-7. Click "Create" and Wait for everything to load properly
-8. Paste the code in the index.js in the repl
+7. Click "Create" and wait for everything to load
+8. Paste the code from the index.js in this repo to the repl index.js
 9. Click the "Run" button at the top in the center
 
 ✅ **That's it!** You should have your IP Finder up and running!
