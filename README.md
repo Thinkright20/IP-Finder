@@ -38,5 +38,5 @@ If you have any difficulty making your IP Finder or are running into any issues 
 
 [Discord](https://discord.gg/suST7VSDRZ) - `Thinkright's Hangout`
 
-[Scratch](https://scratch.mit.edu/users/Thinkright20man/) - `Thinkright20man`
+[Scratch Profile](https://scratch.mit.edu/users/Thinkright20man/) - `Thinkright20man`
 
