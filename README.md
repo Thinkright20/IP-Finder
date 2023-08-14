@@ -8,7 +8,7 @@ Read through this guide to fully understand how to use it.
 
 # 🔢 Instructions
 
-1. Go to index.js in this GitHub Repository
+1. Go to index.js in this GitHub Repo
 2. Copy the entire code in index.js
 3. Leave a Star (optional but would be nice)
 4. Go into Replit and click the '+' button
