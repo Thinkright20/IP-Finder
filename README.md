@@ -1,6 +1,6 @@
 # 🔨 Build An IP Finder
 This Github respository contains code that when entered in a code space and runned, will create a detailed IP Grabber.
-Read through this guide to fully understand how to use it.
+Read through this guide to setup it up.
 
 # 📑 Required Things:
 - Repl.it account
