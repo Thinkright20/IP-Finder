@@ -15,7 +15,7 @@ Read through this guide on how to setup it up.
 5. Select "node.js" as the language and name it what you want
 7. Click "Create" and wait for everything to load
 8. Paste the code from the index.js in this repo to the repl index.js
-9. Click the "Run" button at the top in the center
+9. Click the green "Run" button at the top in the center
 
 ✅ **That's it!** You should have your IP Finder up and running!
 
