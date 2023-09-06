@@ -4,7 +4,7 @@ Read through this guide on how to setup it up.
 
 # 📑 Required Things:
 - Repl.it account
-- Uptimerobot.com account (optional for hosting)
+- Uptimerobot.com account (optional but recommended if you want to host it)
 
 # 🔢 Instructions
 
