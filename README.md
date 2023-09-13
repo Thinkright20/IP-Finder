@@ -10,7 +10,7 @@ Read through this guide on how to setup it up.
 
 1. Go to index.js in this GitHub Repo
 2. Copy the entire code in index.js
-3. Leave a Star (optional but would be nice)
+3. Leave a Star (optional but would be appreciated)
 4. Go into Replit and click the '+' button
 5. Select "node.js" as the language and name it what you want
 7. Click "Create" and wait for everything to load
