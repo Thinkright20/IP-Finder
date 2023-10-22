@@ -29,7 +29,7 @@ If you want to keep your IP Finder up and running 24/7, follow this tutorial but
 
 # ❓ Help
 
-If you have any difficulty making your IP Finder or are running into any issues with hosting, you can leave a comment on the YouTube Video or contact me at my Discord:
+If you have any difficulty making your IP Finder or are running into any issues with hosting, you can leave a comment on the YouTube Video or contact me at my below:
 **https://discord.gg/suST7VSDRZ**
 
 # 🔗 Links
