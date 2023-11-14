@@ -34,7 +34,7 @@ If you have any difficulty making your IP Finder or are running into any issues 
 
 # 🔗 Links
 
-[YouTube](https://www.youtube.com/channel/UCrAV0ayEHJS4GKfE9Q2yQNQ) - `Thinkright20`
+[YouTube Channel](https://www.youtube.com/channel/UCrAV0ayEHJS4GKfE9Q2yQNQ) - `Thinkright20`
 
 [Discord](https://discord.gg/suST7VSDRZ) - `Thinkright's Hangout`
 
